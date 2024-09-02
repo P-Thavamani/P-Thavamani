@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web development based projects and community projects**
 
-- 📫 How to reach me **course.thavamani@gmail.com**
+- 📫 How to reach me **bot.thavamani@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1crcM_8yXqf0k6ZoK38qn5RXyDKt46iHC/view?usp=drive_link](https://drive.google.com/file/d/1crcM_8yXqf0k6ZoK38qn5RXyDKt46iHC/view?usp=drive_link)
 
