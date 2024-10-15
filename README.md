@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bot.thavamani@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YAVq-0-wOobERBrEDP1fKdVYgXahEF1k/view?usp=drive_link](Resume Link)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1YAVq-0-wOobERBrEDP1fKdVYgXahEF1k/view?usp=drive_link)
 
 - ⚡ Fun fact **I don't care about anything while I work, I even skip food if i am focused**
 
