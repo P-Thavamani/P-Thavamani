@@ -8,9 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+P+Thavamani" alt="Typing SVG" />
   </h1>
 
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F77F00&width=600&lines=Aspiring+Cyber+Security+Analyst;Front-End+%26+App+Developer+in+Training;AI+%26+Blockchain+Tech+Explorer"/>
-  </h3>
+  ### **🚀 Aspiring Cyber Security Analyst | Front-End & App Developer in Training | AI & Blockchain Tech Explorer**
 
 </div>
 
@@ -18,25 +16,25 @@
 
 ## 🚀 <strong>Current Projects</strong>
 
-- ✅ **Spectacles for Blind**
-- ✅ **Language Translator**
-- 🔨 **Honeypot System**
+- ✅ **Spectacles for Blind**  
+- ✅ **Language Translator**  
+- 🔨 **Honeypot System**  
 - 🔨 **DNA+CHAIN: A Secure Data Framework**
 
 ---
 
 ## 🎯 <strong>Learning Goals</strong>
 
-- **React & Flutter**
-- **Cyber Security & Blockchain**
+- **React & Flutter**  
+- **Cyber Security & Blockchain**  
 - **App Development & Deployment**
 
 ---
 
 ## 🤝 <strong>Open to Collaborate On</strong>
 
-- **Community-based Projects**
-- **Cybersecurity Projects**
+- **Community-based Projects**  
+- **Cybersecurity Projects**  
 - **Full-Stack Web Projects**
 
 ---
@@ -52,7 +50,7 @@
 ## ⚡ <strong>Fun Fact</strong>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F596&center=true&width=700&lines=I+don%E2%80%99t+care+about+anything+while+I+work%2C+even+skip+food+when+I+am+focused." alt="Fun Fact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F596&center=true&multiline=true&width=800&lines=I+don%E2%80%99t+care+about+anything+while+I+work.;I+even+skip+food+when+I%E2%80%99m+focused." alt="Fun Fact" />
 </div>
 
 ---
