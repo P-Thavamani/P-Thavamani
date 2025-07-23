@@ -1,23 +1,63 @@
-<h1 align="center">Hi 👋, I'm P Thavamani</h1>
-<h3 align="center">Aspiring Cyber Security Analyst | Front-End Developer in Training | AI Tools Enthusiast</h3>
+<!-- README.md -->
 
-- 🔭 I’m currently working on **Spectacles for blind, Healthcare with AI: A Multi-Function Health Information Toll-Free Service, Language Translator**
+<div align="center">
 
-- 🌱 I’m currently learning **React, MangoDB**
+  <img src="https://komarev.com/ghpvc/?username=pthavamani&label=Profile%20views&color=blueviolet&style=flat" alt="profile views"/>
 
-- 👯 I’m looking to collaborate on **Web development based projects and community projects**
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+P+Thavamani" alt="Typing SVG" />
+  </h1>
 
-- 📫 How to reach me **bot.thavamani@gmail.com**
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F77F00&width=600&lines=Aspiring+Cyber+Security+Analyst;Front-End+%26+App+Developer+in+Training;AI+%26+Blockchain+Tech+Explorer"/>
+  </h3>
+</div>
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1T5iGFNLEGCmNT54VP1NByr9OQAOYsWGL/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I don't care about anything while I work, I even skip food if i am focused**
+### 🚀 Current Projects
+- ✅ Spectacles for Blind
+- ✅ Language Translator
+- 🔨 Honeypot System
+- 🔨 DNA+CHAIN: A Secure Data Framework
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pthavamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pthavamani" height="30" width="40" /></a>
-<a href="https://instagram.com/_.thavamani._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.thavamani._" height="30" width="40" /></a>
-</p>
+### 🎯 Learning Goals
+- React & Flutter
+- Cyber Security & Blockchain
+- App Development & Deployment
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+### 🤝 I'm open to collaborate on
+- Community-based Projects
+- Cybersecurity Projects
+- Full-Stack Web Projects
+
+---
+
+### 🛠️ Languages & Tools
+<div align="left">
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,react,flutter,mongodb,mysql,git,linux,figma,arduino,matlab&theme=dark"/>
+  </p>
+</div>
+
+---
+
+### ⚡ Fun Fact
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F596&center=true&width=700&lines=I+don%E2%80%99t+care+about+anything+while+I+work%2C+even+skip+food+when+I+am+focused."/>
+</div>
+
+---
+
+### 📬 Contact Me
+<div align="center">
+  <a href="mailto:thavamani.thavamani123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thavamani.thavamani123%40gmail.com-blue?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/pthavamani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/_.thavamani._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
