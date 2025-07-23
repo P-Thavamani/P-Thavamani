@@ -12,14 +12,6 @@
 
 </div>
 
----
-
-## 🚀 <strong>Current Projects</strong>
-
-- ✅ **Spectacles for Blind**  
-- ✅ **Language Translator**  
-- 🔨 **Honeypot System**  
-- 🔨 **DNA+CHAIN: A Secure Data Framework**
 
 ---
 
@@ -42,7 +34,7 @@
 ## 🛠️ <strong>Languages & Tools</strong>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,react,flutter,mongodb,mysql,git,linux,figma,arduino,matlab&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,flutter,mysql,git,linux,figma,arduino,matlab&theme=dark" alt="skills" />
 </div>
 
 ---
