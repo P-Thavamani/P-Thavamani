@@ -11,53 +11,66 @@
   <h3>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F77F00&width=600&lines=Aspiring+Cyber+Security+Analyst;Front-End+%26+App+Developer+in+Training;AI+%26+Blockchain+Tech+Explorer"/>
   </h3>
+
 </div>
 
 ---
 
-### 🚀 Current Projects
-- ✅ Spectacles for Blind
-- ✅ Language Translator
-- 🔨 Honeypot System
-- 🔨 DNA+CHAIN: A Secure Data Framework
+## 🚀 <strong>Current Projects</strong>
 
-### 🎯 Learning Goals
-- React & Flutter
-- Cyber Security & Blockchain
-- App Development & Deployment
-
-### 🤝 I'm open to collaborate on
-- Community-based Projects
-- Cybersecurity Projects
-- Full-Stack Web Projects
+- ✅ **Spectacles for Blind**
+- ✅ **Language Translator**
+- 🔨 **Honeypot System**
+- 🔨 **DNA+CHAIN: A Secure Data Framework**
 
 ---
 
-### 🛠️ Languages & Tools
-<div align="left">
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,react,flutter,mongodb,mysql,git,linux,figma,arduino,matlab&theme=dark"/>
-  </p>
-</div>
+## 🎯 <strong>Learning Goals</strong>
+
+- **React & Flutter**
+- **Cyber Security & Blockchain**
+- **App Development & Deployment**
 
 ---
 
-### ⚡ Fun Fact
+## 🤝 <strong>Open to Collaborate On</strong>
+
+- **Community-based Projects**
+- **Cybersecurity Projects**
+- **Full-Stack Web Projects**
+
+---
+
+## 🛠️ <strong>Languages & Tools</strong>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F596&center=true&width=700&lines=I+don%E2%80%99t+care+about+anything+while+I+work%2C+even+skip+food+when+I+am+focused."/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,react,flutter,mongodb,mysql,git,linux,figma,arduino,matlab&theme=dark" alt="skills" />
 </div>
 
 ---
 
-### 📬 Contact Me
+## ⚡ <strong>Fun Fact</strong>
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F596&center=true&width=700&lines=I+don%E2%80%99t+care+about+anything+while+I+work%2C+even+skip+food+when+I+am+focused." alt="Fun Fact" />
+</div>
+
+---
+
+## 📬 <strong>Contact Me</strong>
+
+<div align="center">
+
   <a href="mailto:thavamani.thavamani123@gmail.com">
     <img src="https://img.shields.io/badge/Email-thavamani.thavamani123%40gmail.com-blue?style=for-the-badge&logo=gmail"/>
   </a>
+
   <a href="https://linkedin.com/in/pthavamani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="https://instagram.com/_.thavamani._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
 </div>
