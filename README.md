@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=P-Thavamani&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=P-Thavamani&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I am currently Building websites and freelancing<br>I wanna collaborate on Community based projects and something impactful<br> I need help with guidance on career<br>I am currently learning how to deploy sites and to connect clients.<br>Fun Fact : I skip meals when I start to do any work.
 
@@ -19,7 +22,6 @@ I am currently Building websites and freelancing<br>I wanna collaborate on Commu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=P-Thavamani&icon=5&color=1)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=P-Thavamani&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
